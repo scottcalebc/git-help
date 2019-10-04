@@ -6,7 +6,7 @@ public class Main {
 
 		String hello = new String("Hello from Eclipse");
 		String person = new String("Caleb");
-		System.out.println(hello + " " + person);
+		System.out.printf("%s %s\n", hello, person);
 
 	}
 }
