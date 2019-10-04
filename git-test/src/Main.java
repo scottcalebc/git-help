@@ -7,5 +7,7 @@ public class Main {
 		String person = new String("Caleb");
 		System.out.printf("%s %s\n", hello, person);
 
+		System.out.printf("Testing\n");
+
 	}
 }
