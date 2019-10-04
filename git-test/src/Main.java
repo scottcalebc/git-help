@@ -3,10 +3,7 @@ public class Main {
 	
 	public static void main(String args[])
 	{
-
-		String hello = new String("Hello from Eclipse");
-		String person = new String("Caleb");
-		System.out.println(hello + " " + person);
-
+		String hello = new String("Hello World!");
+		System.out.printf("%s", hello);
 	}
 }
